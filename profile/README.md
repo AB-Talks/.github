@@ -94,7 +94,7 @@ Every contribution helps make practical AI more accessible.
 
 ## 🌐 Connect with AB Talks : 
 
-- 🌍 Website: [https://abtalks.in](https://abtalks.in)
+- 🌍 Website: [https://abtalks.in](https://www.abtalks.in/?ref=S4H7CL)
 - 💼 LinkedIn: [https://www.linkedin.com/company/abtalks](https://www.linkedin.com/company/abtalks-on-ai/)
 - ▶️ YouTube: [https://www.youtube.com/@ABTalks](https://www.youtube.com/@ABTalksOnAI)
 - 📸 Instagram: [https://www.instagram.com/abtalks_official](https://www.instagram.com/abtalks_official?igsh=aG52MG0zdTZqYzQx)
